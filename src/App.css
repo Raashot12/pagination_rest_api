@@ -1,0 +1,20 @@
+.main{
+	width: 500px;
+	margin: 40px auto;
+	border: red 10px solid;
+  background-color: gold;
+  box-shadow: rgba(black, green, blue, alpha); 
+  border-radius: 4px;
+  padding-bottom: 15px;
+}
+
+body{
+ background-color: indianred;
+}
+
+button{
+	background-color: slateblue;
+	padding: 20px;
+	margin: 20px;
+	float: center;
+}
